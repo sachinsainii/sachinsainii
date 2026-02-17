@@ -1,4 +1,3 @@
-# 💫 About Me:
 💫 Hi 👋, I'm Sachin Saini<br><br>A passionate Software Engineer || Python Developer <br><br>- 🌱 I’m currently learning: Advanced Django & FastAPI<br>- 💻 I’m working on: Full Stack Development Projects<br>- 🧠 I practice coding on LeetCode<br>- 📫 How to reach me: sachinsaini@email.com<br>- 😄 Pronouns: Sachin<br>- ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
